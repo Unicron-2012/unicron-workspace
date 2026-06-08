@@ -85,8 +85,7 @@ Unicron Workspace aims to go beyond traditional AI chat applications by providin
 * File uploads and knowledge bases
 
 ## 📸 Screenshots
-
-
+![Unicron Workspace Screenshot](./img1.png)
 
 ## 🤝 Contributing
 
